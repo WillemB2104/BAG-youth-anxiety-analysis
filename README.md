@@ -10,7 +10,7 @@ This repository contains two main components for brain age estimation and analys
 1. **Python Jupyter Notebook**  
    Applies the **MCCQRNN** model to estimate brain age with uncertainty adjustment using FreeSurfer features.
 
-2. **R Script**  
+2. **R Analysis Script**  
    Processes the model outputs to compute Brain Age Gap (BAG) metrics, perform group-level statistical analyses, and generate visualizations.
 
 ---
@@ -58,5 +58,13 @@ This script takes the Python-generated outputs as input and performs:
 
 ## Requirements
 
-* Python environment with necessary packages (listed here: [https://github.com/wwu-mmll/mccqrnn_docker/blob/main/docker/requirements.txt](https://github.com/wwu-mmll/mccqrnn_docker/blob/main/docker/requirements.txt))  
-* R environment with required packages for mixed-effects modeli*
+* Python environment with necessary packages (listed here: [requirements.txt](https://github.com/wwu-mmll/mccqrnn_docker/blob/main/docker/requirements.txt))  
+* R environment with required packages (listed in main.R) for mixed-effects modeling and plotting  
+
+---
+
+## Contact
+
+For questions or collaboration, please contact Willem Bruin.
+
+---
