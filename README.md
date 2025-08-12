@@ -1,7 +1,5 @@
 ---
-
-# Brain Age Gap (BAG) Analysis Using MCCQRNN
-
+# Brain age examinations in youth anxiety disorders
 **Author:** Willem Bruin
 
 ---
