@@ -40,7 +40,7 @@ The MCCQRNN model version used here is included in `/Scripts/MCCQRNN_Regressor.p
 
 ---
 
-## R Script: Statistical Analysis of BAG
+## R Script: Statistical Analyses
 
 This script takes the Python-generated outputs as input and performs:
 
